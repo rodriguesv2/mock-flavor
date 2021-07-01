@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mock Flavor</string>
+
+    <string name="name">Nome: %s</string>
+    <string name="birth_date">Data de Nascimento: %s</string>
+    <string name="gender">Genero: %s</string>
+    <string name="document">Documento: %s</string>
+</resources>
